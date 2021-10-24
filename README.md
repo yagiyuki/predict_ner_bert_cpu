@@ -1,0 +1,2 @@
+# predict_ner_bert_cpu
+bertの固有表現抽出をcpuで実施する
